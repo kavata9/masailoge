@@ -1,0 +1,15 @@
+h1{
+  color: blue;
+}
+h2{
+  font-style: italic;
+  color: green;
+}
+p{
+  color: crimson;
+}
+body{
+  background-color:maroon;
+  font-family: sans-serif;
+  text-align: center;
+}
