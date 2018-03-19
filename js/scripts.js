@@ -2,7 +2,7 @@
 
 var imageSlider = document.getElementById('imagesSlider');
 
-var images =["url('../Masailoge/pics/pic1.jpg')" , "url('../Masailoge/pics/pic2.jpg')" , "url('../Masailoge/pics/pic9.jpg')"];
+var images =["url('../Masailoge/pics/image1.jpeg')" , "url('../Masailoge/pics/pic3.jpg')" , "url('../Masailoge/pics/pic5.gif')"];
 var counter = 0;
 
 function carousel(){
